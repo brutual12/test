@@ -1,5 +1,8 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Annotations/Add Annotation" />
+    <ignoreAction name="Java/Strings/Copy String Concatenation Text to the Clipboard" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Java/Strings/Replace String Concatenation with String.format()" />
   </component>
 </application>
