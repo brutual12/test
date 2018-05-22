@@ -34,9 +34,13 @@
           <option name="url" value="https://github.com/jorik041/BlinkingLoader.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ISchwarz23/SortableTableView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/TusharTesting/BlinkingLoader" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/TusharTesting/SortableTableView" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
