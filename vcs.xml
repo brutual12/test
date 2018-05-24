@@ -38,9 +38,13 @@
           <option name="url" value="https://github.com/ISchwarz23/SortableTableView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/stephtelolahy/UserInactivityApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/TusharTesting/SortableTableView" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/TusharTesting/UserInactivityApp" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
