@@ -46,9 +46,13 @@
           <option name="url" value="https://github.com/shanmugasanthosh7/EcgProgressDialog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ortho_srvc@bitbucket.org/ortho_srvc/builderstorm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/TusharTesting/EcgProgressDialog" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/GithubCode" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
