@@ -4,5 +4,6 @@
     <ignoreAction name="Java/Strings/Copy String Concatenation Text to the Clipboard" />
     <ignoreAction name="Java/Declaration/Split Declaration" />
     <ignoreAction name="Java/Strings/Replace String Concatenation with String.format()" />
+    <ignoreAction name="Java/Control Flow/Create switch statement" />
   </component>
 </application>
