@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="java.lang.String.split(regex)" />
+        <added pattern="android.app.Dialog.Dialog(context,themeResId)" />
       </blacklist>
     </blacklists>
   </component>
