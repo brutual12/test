@@ -70,9 +70,13 @@
           <option name="url" value="https://github.com/survivingwithandroid/Surviving-with-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/stephentuso/welcome-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/survivingwithandroid" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/welcome-android" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
