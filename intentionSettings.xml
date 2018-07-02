@@ -7,5 +7,6 @@
     <ignoreAction name="Java/Control Flow/Create switch statement" />
     <ignoreAction name="Other/Flip ','" />
     <ignoreAction name="Java/Numbers/Convert to Binary" />
+    <ignoreAction name="Java/Annotations/Edit method contract" />
   </component>
 </application>
