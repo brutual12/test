@@ -4,6 +4,7 @@
       <blacklist language="Java">
         <added pattern="java.lang.String.split(regex)" />
         <added pattern="android.app.Dialog.Dialog(context,themeResId)" />
+        <added pattern="org.json.JSONArray.toJSONObject(names)" />
       </blacklist>
     </blacklists>
   </component>
