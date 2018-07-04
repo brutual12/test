@@ -5,6 +5,7 @@
         <added pattern="java.lang.String.split(regex)" />
         <added pattern="android.app.Dialog.Dialog(context,themeResId)" />
         <added pattern="org.json.JSONArray.toJSONObject(names)" />
+        <added pattern="android.app.ProgressDialog.ProgressDialog(context)" />
       </blacklist>
     </blacklists>
   </component>
