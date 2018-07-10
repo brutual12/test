@@ -8,5 +8,6 @@
     <ignoreAction name="Other/Flip ','" />
     <ignoreAction name="Java/Numbers/Convert to Binary" />
     <ignoreAction name="Java/Annotations/Edit method contract" />
+    <ignoreAction name="Java/Declaration/Add Javadoc" />
   </component>
 </application>
