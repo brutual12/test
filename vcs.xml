@@ -154,9 +154,13 @@
           <option name="url" value="https://github.com/searchy2/CustomAlertViewDialogue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JianLoong/Call-Log-to-Cal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/CustomAlertViewDialogue" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/CallLogToCalendar" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
