@@ -9,5 +9,6 @@
     <ignoreAction name="Java/Numbers/Convert to Binary" />
     <ignoreAction name="Java/Annotations/Edit method contract" />
     <ignoreAction name="Java/Declaration/Add Javadoc" />
+    <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
   </component>
 </application>
