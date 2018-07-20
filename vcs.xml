@@ -186,9 +186,13 @@
           <option name="url" value="https://github.com/Mafmudin/progress-sg.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/krishnakantgupta/Date_time_picker_iOS_style.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/progress-sg" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Date_time_picker_iOS_style" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
