@@ -182,9 +182,13 @@
           <option name="url" value="https://github.com/Binary-Finery/FabToast.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Mafmudin/progress-sg.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/FabToast" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/progress-sg" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
