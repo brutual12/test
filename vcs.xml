@@ -194,9 +194,13 @@
           <option name="url" value="https://github.com/nouman44/real-estate-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iWay7/AndroidLoadingView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/real-estate-app" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/AndroidLoadingView" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
