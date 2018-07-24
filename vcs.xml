@@ -206,9 +206,13 @@
           <option name="url" value="https://github.com/devsideal/MultiContactPicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/devsideal/OnePageSigninSignup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/MultiContactPicker" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/OnePageSigninSignup" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
