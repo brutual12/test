@@ -222,9 +222,13 @@
           <option name="url" value="https://github.com/bilizen/android-login-gmail-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/searchy2/CustomImagePicker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/android-login-gmail-sample." />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/CustomImagePicker" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
