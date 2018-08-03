@@ -250,9 +250,13 @@
           <option name="url" value="https://github.com/Frank-Zhu/PullZoomView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ClarionTechnologiesMobile/Android_TimelineView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/PullZoomView" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Android_TimelineView" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
