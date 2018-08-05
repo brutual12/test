@@ -10,5 +10,6 @@
     <ignoreAction name="Java/Annotations/Edit method contract" />
     <ignoreAction name="Java/Declaration/Add Javadoc" />
     <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
+    <ignoreAction name="Java/Declaration/Create Test" />
   </component>
 </application>
