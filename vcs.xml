@@ -290,9 +290,13 @@
           <option name="url" value="https://github.com/MostofaRiad/PicEdit-Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/iamrajatsoni/OptionPicker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/PicEdit-Android" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/OptionPicker" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
