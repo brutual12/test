@@ -310,9 +310,13 @@
           <option name="url" value="https://github.com/la-colinares/Task-Reminder-App.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/varunon9/FakeLock.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Task-Reminder" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/FakeLock" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
