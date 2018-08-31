@@ -342,9 +342,13 @@
           <option name="url" value="https://github.com/phamxuanlu/PhotoEffectsEditor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fccaikai/BottomMenuTutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/FloatingMenuDialog1" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/BottomMenuTutorial" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
