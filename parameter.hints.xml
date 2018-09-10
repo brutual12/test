@@ -7,6 +7,7 @@
         <added pattern="org.json.JSONArray.toJSONObject(names)" />
         <added pattern="android.app.ProgressDialog.ProgressDialog(context)" />
         <added pattern="customvalidation.com.customfetchingdata.MyCustomAdapter.MyCustomAdapter(heroList,mCtx)" />
+        <added pattern="android.content.Context.getSystemService(s)" />
       </blacklist>
     </blacklists>
   </component>
