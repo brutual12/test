@@ -11,5 +11,6 @@
     <ignoreAction name="Java/Declaration/Add Javadoc" />
     <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
     <ignoreAction name="Java/Declaration/Create Test" />
+    <ignoreAction name="Android/Extract string resource" />
   </component>
 </application>
