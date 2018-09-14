@@ -386,9 +386,13 @@
           <option name="url" value="https://github.com/Lewyn/app-birthdayreminder.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/advaitpatel/ReminderBuddy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/birthdayreminder" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/ReminderBuddy" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
