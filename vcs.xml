@@ -390,9 +390,13 @@
           <option name="url" value="https://github.com/advaitpatel/ReminderBuddy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kaopiz/KProgressHUD.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/ReminderBuddy" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/KProgressHUD" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
