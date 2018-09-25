@@ -12,5 +12,6 @@
     <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
     <ignoreAction name="Java/Declaration/Create Test" />
     <ignoreAction name="Android/Extract string resource" />
+    <ignoreAction name="Groovy/Groovy-style/Convert method or closure parameters to map entries" />
   </component>
 </application>
