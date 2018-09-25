@@ -410,9 +410,13 @@
           <option name="url" value="https://github.com/linglongxin24/AndroidPicker_LikeiOS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/amitjangid80/multiutillib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/AndroidPicker_LikeiOS" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/multiutillib" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
